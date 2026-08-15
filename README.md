@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik Chakraborty</h1>
-<h3 align="center">A passionate frontend dAspiring Data Analyst & AI Enthusiast from Indiaeveloper from India</h3>
+<h3 align="center">A passionate frontend Aspiring Data Analyst & AI Enthusiast from Indiaeveloper from India</h3>
 
 - 🔭 I’m currently working on [Agentic SQL Data Analyst with Natural Language Interface](https://github.com/ChakraborttySouvik/Agentic-SQL-Data-Analyst-with-Natural-Language-Interface)
 
